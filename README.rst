@@ -17,14 +17,16 @@ How to get access
 
         https://github.com/pyramid-collective/pyramid-collective.github.com/issues
 
-    - Or fork `pyramid-collective.github.com`_ repository, edit permissions.cfg file, commit and push it and send us a Pull Request (see section below for details).
+    - Or fork
+        `pyramid-collective.github.com <https://github.com/pyramid-collective/pyramid-collective.github.com>`_
+        repository, edit permissions.cfg file, commit and push it and send us a Pull Request (see section below for details).
 
 
 How to manage permissions and repositories
 +++++++++++++++++++++++++++++++++++++++++++
 Overview
 ***********
-Permissions are stored in permissions.cfg file in pyramid-collective.github.com repository.
+Permissions are stored in permissions.cfg file in `pyramid-collective.github.com <https://github.com/pyramid-collective/pyramid-collective.github.com>`_.
 
 Fork the pyramid-collective.github.com repository and then edit the permissions.cfg. If you’re done commit, push and create a pull request.
 
