@@ -11,3 +11,8 @@ Install a virtualenv and the cron in develop mode
 
 Setup a github account with orga managment right.
 
+Copy/edit the runcron.sh script to adapt to your system and register it to the cron service like for example::
+
+    * */10 * * * /opt/minitage/pyramidcollective/runcron.sh
+
+
