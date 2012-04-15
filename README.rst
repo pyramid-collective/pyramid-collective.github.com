@@ -17,7 +17,7 @@ How to get access
 
         https://github.com/pyramid-collective/pyramid-collective.github.com/issues
 
-    - Or fork pyramid-collective.github.com repository, edit permissions.cfg file, commit and push it and send us a Pull Request (see section below for details).
+    - Or fork pyramid-collective.github.com_ repository, edit permissions.cfg file, commit and push it and send us a Pull Request (see section below for details).
 
 
 How to manage permissions and repositories
@@ -59,3 +59,6 @@ Instructions on editing permissions.cfg
     Find the section [team:contributors] and append your username to the end.
 
 Please not use the button on github website to create new repositories, otherwise the admin team has to edit the permissions.cfg file manually because of your laziness
+
+
+.. _pyramid-colleciive.github.com: https://github.com/pyramid-collective/pyramid-collective.github.com
